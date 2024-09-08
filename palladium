@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+</head>
+
+<head>
+    <link rel="stylesheet" href="palladium.css">
+</head>
+
+<body>
+
+
+    <div class="notification">
+        Free shipping and returns on all orders!
+    </div>
+
+    <div class="button-section">
+        <button class="button-1"> BRAND </button>
+        <button class="button-2"> WOMEN </button>
+        <button class="button-3"> MEN </button>
+        <button class="button-4"> KIDS </button>
+        <button class="button-5"> SALE </button>
+    </div>
+    <div class="logo">
+        <img src="pictures/Logo_Palladium_248x_ddff372e-07bb-40a0-ad90-1eac7f9e9372_248x.webp" alt="">
+    </div>
+    <div class="button-section2">
+        <button class="search-button"> Search </button>
+    </div>
+
+    <div class="login">
+        <p class="login-header">
+            LOGIN
+        </p>
+        <p class="email-title">
+            Email
+        </p>
+        <input type="text" class="email-address" placeholder="Email address">
+        <p class="password-title">
+            Password
+        </p>
+        <input type="text" class="email-address" placeholder="Password">
+        <button class="sign-in"> Sign In </button>
+        <p class="forgot-pass">
+        <p class="creat-acc">
+            <u>Creat account</u>
+        </p>
+        <p class="pass">
+            <u>Forgot your password?</u>
+        </p>
+
+        </p>
+        <p class="material-icon-theme.folders.customClones"></p>
+
+    </div>
+
+
+
+
+</body>
+
+</html>
